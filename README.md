@@ -47,7 +47,7 @@
 
 ## 📊 **GitHub Stats**  
 ![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshya977&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya977&layout=compact&theme=dark)  
+
 
 ---
 
