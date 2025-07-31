@@ -50,6 +50,10 @@
 
 
 ---
+## 🧠 **LeetCode Stats**  
+![LeetCode Stats](https://leetcard.jacoblin.cool/WTekuiJcFc?theme=dark&font=Fira%20Code&ext=contest)
+
+---
 
 ## 🌍 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-singh-b7b325287/)  
