@@ -46,7 +46,7 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshya977&show_icons=true&theme=dark)  
+![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshya977&show_icons=true&theme=vision-friendly-dark)  
 
 
 ---
