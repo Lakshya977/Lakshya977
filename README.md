@@ -59,5 +59,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-singh-b7b325287/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lakshya977)  
 
-⭐ **Star this repo if you like it!** 🌟
+⭐ **Star this repo if you like it!😎** 🌟
  
