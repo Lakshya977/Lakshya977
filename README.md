@@ -1,4 +1,12 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/lakshya-singh-b7b325287/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:lakshya8998@gmail.com?subject=Hola%20Abhay"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+<br>
+
 # 👋 Hi, I'm Lakshya!  
 🚀 **Full Stack Developer** | 💡 **Tech Enthusiast** | 🎯 **Problem Solver**  
 
